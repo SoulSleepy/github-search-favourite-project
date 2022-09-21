@@ -1,5 +1,5 @@
 import React from 'react'
 
-export function Homepage() {
+export function HomePage() {
     return <div>Home</div>
 }
