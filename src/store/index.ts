@@ -7,3 +7,4 @@ export const store = configureStore({
     },
     middleware: getDefaultMiddleware => getDefaultMiddleware().concat(githubApi.middleware)
 })
+// 26.22 мин
